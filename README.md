@@ -1,4 +1,4 @@
-# Starter Project Bash Script
+# Node JS Starter Project Bash Script
 
 This bash script sets up a Node.js project with modules and files according to specific requirements. It installs necessary dependencies, creates files for server setup, database connection pooling, authentication and authorization modules, and more.
 
